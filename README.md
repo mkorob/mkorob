@@ -21,7 +21,7 @@ It is trained **entirely on synthetic LLM responses**, enabling scalable and con
 
 🔗 **Repository:**  
 👉 https://github.com/ZurichNLP/DETECT/  
-📌 *(Paper citation coming soon)*
+📌 Korobeynikova, Maria, et al. “**[DETECT: Determining Ease and Textual Clarity of German Text Simplifications](https://openreview.net/forum?id=9lUMNJvvr5)**.” *Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics*, 2026.
 
 ---
 
@@ -30,7 +30,7 @@ I’m a **leading contributor** to the **first open repository** dedicated to **
 
 🔗 **Practitioner Guide:**  
 👉 https://github.com/DigDemLab/OpenSource-LLM-Practitioner-Guide  
-📌 *(Citation coming soon)*
+📌 Alizadeh, Meysam, et al. **[“Open-Source LLMs for Text Annotation: A Practical Guide for Model Setting and Fine-Tuning”](https://link.springer.com/content/pdf/10.1007/s42001-024-00345-9.pdf)**. *Journal of Computational Social Science*, vol. 8, no. 1, 2025, p. 17.
 
 ---
 
